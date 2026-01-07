@@ -1,4 +1,4 @@
-# ASTNet - Back End Assessment
+# ATSNet - Back End Assessment
 
 ## Tech Stack
 - .NET 7
