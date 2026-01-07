@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASTNet", "ASTNet.csproj", "{CF39ADDA-06C5-4493-99D1-0040925D7E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASTNet.Tests", "..\ASTNet.Tests\ASTNet.Tests.csproj", "{2C6126D9-DEAE-4C71-854D-1682DFBAE4B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF39ADDA-06C5-4493-99D1-0040925D7E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF39ADDA-06C5-4493-99D1-0040925D7E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF39ADDA-06C5-4493-99D1-0040925D7E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF39ADDA-06C5-4493-99D1-0040925D7E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6126D9-DEAE-4C71-854D-1682DFBAE4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6126D9-DEAE-4C71-854D-1682DFBAE4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6126D9-DEAE-4C71-854D-1682DFBAE4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6126D9-DEAE-4C71-854D-1682DFBAE4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F90DDC8D-B824-479B-ACA8-7132AE162F39}
+	EndGlobalSection
+EndGlobal
